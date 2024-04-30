@@ -1,6 +1,6 @@
-# DACT skill tree
+# DMF skill tree
 
-A proof-of-concept skill tree for the data analytics team.
+A proof-of-concept skill tree for the Data Maturity Framework.
 
 ## Deploying
 The Skillstree has now been setup to use AWS Amplify (this is to enable single sign on).
