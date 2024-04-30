@@ -1,17 +1,17 @@
 {
   "profile": {
-    "name": "Data wrangler",
+    "name": "Data Wrangler",
     "category": "Other",
     "squad": "Any",
     "level": "Any",
     "color": "DeepSkyBlue",
-    "description": "Shaper of tables! Cleanser of unclean rows! You can bend almost any data to your will.",
+    "description": "Preparation and manipulation of data",
     "skills": [
      "alt-1","alt-2","alt-3","alt-4",
       "alt-5","alt-6","alt-7","alt-8",
       "alt-9","alt-10","alt-11","alt-12", "alt-13", "alt-14"
     ],
-    "portrait": "portraits/portrait5.png",
+    "portrait": "portraits/explain.jpg",
     "completion": 0
   }
 }

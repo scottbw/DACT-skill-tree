@@ -113,10 +113,23 @@ export class TreeWrapper extends Component<TreeWrapperProps, TreeWrapperState> {
                 <div onClick={this.handleSkillClick}>
                     <SkillProvider>
                         <SkillTreeGroup theme={{
-                            nodeBorderColor: 'grey',
+                            nodeBorderColor: 'white',
                             nodeBorderRadius: '32px',
-                            nodeHoverBorder: 'none',
-                            edgeBorder: '1px solid grey'
+                            nodeHoverBorder: '#E5D0E1',
+                            nodeBackgroundColor: '#CBCEDA',
+                            treeBackgroundColor: '#D0E1EF',
+                            primaryFontColor: 'black',
+                            headingHoverColor: 'white',
+                            headingFontColor: 'white',
+                            edgeBorder: '1px solid white',
+                            nodeOverlayColor: '#CBCEDA',
+                            border: '2px solid white',
+                            tooltipBackgroundColor: 'red',
+                            /* this is activated nodes*/
+                            nodeActiveBackgroundColor: '#A1C1AB',
+                            nodeAlternativeActiveBackgroundColor: '#A1C1AB',
+                            nodeHoverBorderColor: '#6E6C6B',
+                            backgroundColor: 'white',
                         }}>
                             {() => (
                                 <SkillTree

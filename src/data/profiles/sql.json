@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "name": "SQL",
+    "category": "Other",
+    "squad": "Any",
+    "level": "Any",
+    "color": "HotPink",
+    "description": "SQL expertise including use of stored procedures",
+    "skills": [
+      "dmg-1",
+      "sql-1","sql-2",
+      "sql-opt-1","sql-opt-2","sql-opt-3",
+      "sql-design-1","sql-design-2","sql-design-3"
+    ],
+    "portrait": "portraits/programmer.jpg",
+    "completion": 0
+  }
+}

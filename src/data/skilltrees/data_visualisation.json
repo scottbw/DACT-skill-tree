@@ -5,7 +5,7 @@
       {
         "id": "viz-1",
         "title": "Data visualisation basics",
-        "icon": "icons/RoundIcons_FreeSet-35.svg",
+        "icon": "icons/graph.png",
         "tooltip": {
           "content": "Understand the basic purpose of data visualisation, such as charts and infographics."
         },
@@ -13,7 +13,7 @@
           {
             "id": "vbp-2",
             "title": "Suppression and rounding",
-            "icon": "icons/practices.png",
+            "icon": "icons/line.png",
             "tooltip": {
               "content": "Apply suppression and rounding to data visualisations."
             },
@@ -22,7 +22,7 @@
           {
             "id": "vbp-4",
             "title": "Visualisation performance",
-            "icon": "icons/practices.png",
+            "icon": "icons/analytics.png",
             "tooltip": {
               "content": "Follows best practices in making visualisations perform better in terms of loading times and interaction responsiveness, for example using integers rather than strings, minimising datasets, and using an understanding of server platforms."
             },
@@ -32,7 +32,7 @@
           {
             "id": "vbp-6",
             "title": "Visualisation testing",
-            "icon": "icons/devops.svg",
+            "icon": "icons/research.png",
             "tooltip": {
               "content": "Follows best practices in making sure visualisations provide accurate data."
             },
@@ -40,7 +40,7 @@
               {
                 "id": "vbp-7",
                 "title": "Automated testing of visualisations",
-                "icon": "icons/devops.svg",
+                "icon": "icons/research.png",
                 "tooltip": {
                   "content": "Creates automated, repeatable tests for visualisations, e.g. using Wiisdom Ops or Selenium."
                 },
@@ -52,7 +52,7 @@
           {
             "id": "vbp-1",
             "title": "Visualisation best practice",
-            "icon": "icons/practices.png",
+            "icon": "icons/bar.png",
             "tooltip": {
               "content": "Creates reports using appropriate visualisations to convey the data story"
             },
@@ -60,7 +60,7 @@
               {
                 "id": "vbp-3",
                 "title": "Accessibility",
-                "icon": "icons/practices.png",
+                "icon": "icons/wellbeing.png",
                 "tooltip": {
                   "content": "Follows best practices in making visualisations accessible."
                 },
@@ -70,7 +70,7 @@
               {
                 "id": "vbp-5",
                 "title": "Advanced Visualisation best practice",
-                "icon": "icons/practices.png",
+                "icon": "icons/baseline.png",
                 "tooltip": {
                   "content": "Follows best practices for information design."
                 },
@@ -82,7 +82,7 @@
           {
             "id": "viz-2",
             "title": "Basic charts",
-            "icon": "icons/RoundIcons_FreeSet-43.svg",
+            "icon": "icons/bar.png",
             "tooltip": {
               "content": "Can create two dimensional charts in Excel, Tableau, PowerBI or similar"
             },
@@ -90,15 +90,15 @@
               {
                 "id": "viz-3",
                 "title": "Interactivity",
-                "icon": "icons/RoundIcons_FreeSet-43.svg",
+                "icon": "icons/league.png",
                 "tooltip": {
                   "content": "Implement interactivity, e.g. using Tableau Actions"
                 },
                 "children": [
                   {
                     "id": "viz-4",
-                    "title": "Sets  and filters",
-                    "icon": "icons/RoundIcons_FreeSet-43.svg",
+                    "title": "Sets and filters",
+                    "icon": "icons/league.png",
                     "tooltip": {
                       "content": "Implement advanced Tableau interactivity, e.g. using Set Actions and Parameter actions"
                     },
@@ -108,7 +108,7 @@
                   {
                     "id": "viz-5",
                     "title": "What-if",
-                    "icon": "icons/RoundIcons_FreeSet-43.svg",
+                    "icon": "icons/research.png",
                     "tooltip": {
                       "content": "Implement Parameter-driven what-if analysis"
                     },
@@ -120,7 +120,7 @@
               {
                 "id": "viz-6",
                 "title": "Custom visualisation types e.g.  Polar, Radar",
-                "icon": "icons/RoundIcons_FreeSet-43.svg",
+                "icon": "icons/reporting.png",
                 "tooltip": {
                   "content": "Create custom visualisation types   e.g.  Polar, Radar"
                 },
@@ -130,7 +130,7 @@
               {
                 "id": "viz-7",
                 "title": "Trends and changes",
-                "icon": "icons/RoundIcons_FreeSet-43.svg",
+                "icon": "icons/progression.png",
                 "tooltip": {
                   "content": "Implement trends and YOY changes in visualisations"
                 },
@@ -138,7 +138,7 @@
                   {
                     "id": "viz-8",
                     "title": "Linear forecasting",
-                    "icon": "icons/RoundIcons_FreeSet-43.svg",
+                    "icon": "icons/continuation.png",
                     "tooltip": {
                       "content": "Implement linear forecasts in visualisations"
                     },
@@ -152,7 +152,7 @@
           {
             "id": "viz-9",
             "title": "Mapping",
-            "icon": "icons/RoundIcons_FreeSet-15.svg",
+            "icon": "icons/league.png",
             "tooltip": {
               "content": "Implement maps (filled, point) in data visualisations"
             },
@@ -160,7 +160,7 @@
               {
                 "id": "viz-10",
                 "title": "Advanced mapping",
-                "icon": "icons/RoundIcons_FreeSet-15.svg",
+                "icon": "icons/league.png",
                 "tooltip": {
                   "content": "Use paths, distances, layers and other advanced map features"
                 },
@@ -172,7 +172,7 @@
           {
             "id": "viz-11",
             "title": "Web visualisation",
-            "icon": "icons/RoundIcons_FreeSet-43.svg",
+            "icon": "icons/workshop.png",
             "tooltip": {
               "content": "Create visualisations for the web, eg. using D3.js"
             },
@@ -180,7 +180,7 @@
               {
                 "id": "viz-12",
                 "title": "3D",
-                "icon": "icons/RoundIcons_FreeSet-43.svg",
+                "icon": "icons/continuation.png",
                 "tooltip": {
                   "content": "Create 3d models e.g. using Blender"
                 },

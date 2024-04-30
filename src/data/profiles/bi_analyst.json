@@ -1,0 +1,16 @@
+{
+  "profile": {
+    "name": "BI Analyst",
+    "category": "Other",
+    "squad": "Any",
+    "level": "Any",
+    "color": "DarkOrange",
+    "description": "Expert in data analysis and visualisation",
+    "skills": [
+      "vbp-1", "vbp-2", "vbp-3",
+      "viz-1", "viz-2", "viz-3", "viz-4", "viz-5", "viz-6", "viz-7", "viz-8", "viz-9", "viz-10"
+    ],
+    "portrait": "portraits/data.jpg",
+    "completion": 0
+  }
+}

@@ -15,11 +15,10 @@ interface Props {
 }
 
 const Portrait = styled.img<Props> `
-    opacity: ${props => Math.max(props.data.completion / 200 + 0.5, 0.3)};
     border-color: ${props => props.data.completion === 100 ? props.data.color: 'gray'};
 `
 const Title = styled.h2<Props> `
-    color: ${props => props.data.completion === 100 ? props.data.color: 'white'};
+    color: ${props => props.data.completion === 100 ? props.data.color: 'black'};
 `
 
 const Description = styled.p`
@@ -40,10 +39,10 @@ function SimpleDialog(props: any) {
     };
 
     const dialogPaperStyle = {
-        backgroundColor: '#282c34',
+        backgroundColor: 'white',
         border: '2px solid #000',
         boxShadow: '0 4px 8px 0 rgba(0,0,0,0.2)',
-        color: '#fff',
+        color: 'black',
 
     };
 
@@ -54,10 +53,10 @@ function SimpleDialog(props: any) {
             open={open}
             PaperProps={{
                 style: {
-                    backgroundColor: '#282c34',
+                    backgroundColor: 'white',
                     border: '2px solid #000',
                     boxShadow: '0 4px 8px 0 rgba(0,0,0,0.2)',
-                    color: '#fff',
+                    color: 'black',
                     width: '50vw',
                     maxWidth: '90vw',
 
@@ -80,7 +79,7 @@ function SimpleDialog(props: any) {
                                 {skill.skill_info && skill.skill_info.map((info: { text: string; url: string; }, index: number) => (
                                     <React.Fragment key={index}>
                                         {info.text && <p className="standard-text">Guidance: {info.text}</p>}
-                                        {info.url && <p className="standard-text">URL: <a href={info.url} className="custom-link" target="_blank" rel="noopener noreferrer" style={{ color: '#3f51b5' }}>{info.url}</a></p>}
+                                        {info.url && <p className="standard-text">URL: <a href={info.url} className="custom-link" target="_blank" rel="noopener noreferrer" style={{ color: '#7e9cc1' }}>{info.url}</a></p>}
                                     </React.Fragment>
                                 ))}
                             </div>

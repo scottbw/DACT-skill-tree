@@ -5,7 +5,7 @@
       {
         "id": "cd-1",
         "title": "Participant",
-        "icon": "icons/RoundIcons_FreeSet-35.svg",
+        "icon": "icons/classroom.png",
         "tooltip": {
           "content": "Has participated in a co-design session as an observer."
         },
@@ -13,7 +13,7 @@
           {
             "id": "cd-2",
             "title": "Active participant",
-            "icon": "icons/comms.png",
+            "icon": "icons/classroom.png",
             "tooltip": {
               "content": "Has participated in a co-design session as an active participant."
             },
@@ -21,7 +21,7 @@
               {
                 "id": "cd-4",
                 "title": "Session setup",
-                "icon": "icons/comms.png",
+                "icon": "icons/classroom.png",
                 "tooltip": {
                   "content": "Help set up a co-design session, e.g. answering posted questions and triaging feedback on Miro."
                 },
@@ -30,7 +30,7 @@
               {
                 "id": "cd-5",
                 "title": "Post-session triage",
-                "icon": "icons/query.png",
+                "icon": "icons/classroom.png",
                 "tooltip": {
                   "content": "Create the post-session MuSCOW priorities for the team."
                 },
@@ -38,7 +38,7 @@
                   {
                     "id": "cd-6",
                     "title": "Post-session analysis",
-                    "icon": "icons/query.png",
+                    "icon": "icons/classroom.png",
                     "tooltip": {
                       "content": "Analyse the session and develop requirements using domain and customer knowledge to interpret and fill in gaps."
                     },
@@ -49,7 +49,7 @@
               {
                 "id": "cd-7",
                 "title": "Session lead/facilitator",
-                "icon": "icons/comms.png",
+                "icon": "icons/classroom.png",
                 "tooltip": {
                   "content": "Lead/facilitate a co-design session with users."
                 },
@@ -57,7 +57,7 @@
                   {
                     "id": "cd-8",
                     "title": "Session design",
-                    "icon": "icons/comms.png",
+                    "icon": "icons/classroom.png",
                     "tooltip": {
                       "content": "Design a co-design session and set up activities."
                     },
@@ -65,7 +65,7 @@
                       {
                         "id": "cd-9",
                         "title": "Process design",
-                        "icon": "icons/comms.png",
+                        "icon": "icons/process.png",
                         "tooltip": {
                           "content": "Design a novel co-design process based on domain and customer knowledge."
                         },
@@ -78,7 +78,7 @@
               {
                 "id": "cd-12",
                 "title": "Recordings",
-                "icon": "icons/comms.png",
+                "icon": "icons/classroom.png",
                 "tooltip": {
                   "content": "Create video recordings demonstrating prototypes"
                 },
@@ -87,7 +87,7 @@
               {
                 "id": "cd-13",
                 "title": "Live demo",
-                "icon": "icons/comms.png",
+                "icon": "icons/classroom.png",
                 "tooltip": {
                   "content": "Present a live demo of a prototype"
                 },
@@ -96,7 +96,7 @@
               {
                 "id": "cd-10",
                 "title": "Non-functional prototypes",
-                "icon": "icons/chart.svg",
+                "icon": "icons/process.png",
                 "tooltip": {
                   "content": "Create non-functioning prototypes as stimulus material"
                 },
@@ -104,7 +104,7 @@
                   {
                     "id": "cd-11",
                     "title": "Working prototypes",
-                    "icon": "icons/chart.svg",
+                    "icon": "icons/process.png",
                     "tooltip": {
                       "content": "Create working prototypes as stimulus material"
                     },

@@ -1,0 +1,15 @@
+{"profile": {
+"name": "Business Analyst",
+  "category": "Other",
+  "squad": "Any",
+  "level": "Any",
+"color": "Turquoise",
+"description": "Engaging users and identifying requirements",
+"skills": [
+
+  "cd-1","cd-2","cd-4",
+  "cd-5","cd-6","cd-7","cd-8","cd-9"
+]
+,"portrait": "portraits/discuss.jpg"
+,"completion": 0
+}}

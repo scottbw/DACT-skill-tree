@@ -14,7 +14,7 @@ export class SkillProfile {
     skills: String[] = [];
     completion?: Number = 0;
     portrait?: String;
-    color?: String = 'white';
+    color?: String = 'black';
     neededSkills?: String[] = [];
 }
 

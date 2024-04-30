@@ -1,0 +1,16 @@
+{
+  "profile": {
+    "name": "Data Scientist",
+    "category": "Other",
+    "squad": "Any",
+    "level": "Any",
+    "color": "DeepSkyBlue",
+    "description": "Data science including predictive analytics",
+    "skills": [
+     "stats-predictive-1","stats-predictive-2","stats-predictive-3",
+      "viz-8"
+    ],
+    "portrait": "portraits/science.jpg",
+    "completion": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "profile": {
+    "name": "Statistician",
+    "category": "Other",
+    "squad": "Any",
+    "level": "Any",
+    "color": "MediumOrchid",
+    "description": "Statistical analysis",
+    "skills": [
+      "stats-predictive-1",
+      "stats-diagnostic-1",
+      "stats-diagnostic-2",
+      "stats-metrics",
+      "stats-scaling",
+      "stats-desc-1",
+      "stats-desc-2",
+      "stats-desc-3",
+      "stats-desc-4",
+      "stats-desc-5"
+    ],
+    "portrait": "portraits/programmer.jpg",
+    "completion": 0
+  }
+}
